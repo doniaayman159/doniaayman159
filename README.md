@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @doniaayman159
+- 👋 Hi, I’m donia ayman 
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning NLP and Computer vision 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... linkedin:www.linkedin.com/in/donia-ayman-532a12237    ...Gmail:doniaahmed9963@gmail.vom
 -              
 
